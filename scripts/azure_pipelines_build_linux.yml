@@ -1,0 +1,10 @@
+steps:
+  - checkout: self
+    fetchDepth: 2
+    submodules: true
+  - script: |
+      apt-get update
+      mkdir build
+      cd build
+      cmake ..
+      make -j 8
