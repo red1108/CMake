@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/minkyu/study/test/src/Test.cpp
+Test.h
+D:/minkyu/study/test/src/Test.h
+
+D:/minkyu/study/test/src/Test.h
+

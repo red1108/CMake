@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libadd_lib.a CMakeFiles/add_lib.dir/Test.obj
+C:\MinGW\bin\ranlib.exe libadd_lib.a
